@@ -19,6 +19,6 @@
   "license": "BSD-style",
   "name": "mux",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "1.3.0"
+  "version": "1.6.2"
 }
 
